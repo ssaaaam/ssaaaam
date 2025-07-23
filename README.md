@@ -10,7 +10,7 @@ Fourth year student of the Computational Mathematics and Data Analytics degree a
 
 ### [Titanic](https://github.com/ssaaaam/titanic)
 Solving the classic problem of classification of the Titanic passengers.
-### [Catalan Speech to Text](https://github.com/ssaaaam/spech2text))
+### [Catalan Speech to Text](https://github.com/ssaaaam/spech2text)
 Building neural network models to solve a Catalan speech to text problem.
 
 ## Tech
