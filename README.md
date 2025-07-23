@@ -2,8 +2,8 @@
 
 # Machine Learning | Data Science 
 
-Estudiante de Matemática Computacional y Analítica de Datos en la UAB. Apasionado por el análisis de datos, machine learning y la ingeniería de datos. En este espacio comparto mis proyectos personales y académicos.
-
+Estudiante de cuarto año del grado de Matemàtica Computacional i Analítica de dades en la Uninversitat Autònoma de Barcelona. En estos años he desarrollado conocimientos en:
+- 1
 ## 🚀 Proyectos destacados
 
 ### [🔎 Titanic - Predicción de Supervivencia](https://github.com/ssaaaam/titanic)
