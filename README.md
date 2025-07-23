@@ -2,28 +2,25 @@
 
 # Machine Learning | Data Science 
 
-Estudiante de cuarto año del grado de Matemàtica Computacional i Analítica de dades en la Uninversitat Autònoma de Barcelona. En estos años he desarrollado conocimientos en:
-- 1
-## 🚀 Proyectos destacados
+Fourth year student of the Computational Mathematics and Data Analytics degree at the Uninversitat Autònoma de Barcelona. In these years I have developed knowledge in:
+- Machine and deep learning.
+- Databases, relational and non-relational.
+- Mathematics (modeling...)
+## Featured Projects
 
-### [🔎 Titanic - Predicción de Supervivencia](https://github.com/ssaaaam/titanic)
-Modelo de clasificación con scikit-learn aplicado al clásico dataset de Kaggle. Incluye análisis exploratorio, limpieza, entrenamiento y evaluación.
+### [Titanic](https://github.com/ssaaaam/titanic)
+Solving the classic problem of classification of the Titanic passengers.
+### [Catalan Speech to Text](https://github.com/ssaaaam/spech2text))
+Building neural network models to solve a Catalan speech to text problem.
 
-### [🧠 Clasificación de textos con Deep Learning](https://github.com/ssaaaam/text-classification-nlp)
-Uso de redes neuronales (LSTM) para clasificar opiniones en positivo o negativo a partir de textos en lenguaje natural.
-
-### [📊 Visualización interactiva de datos de películas](https://github.com/ssaaaam/movie-dashboard)
-Dashboard hecho con Plotly y Dash para explorar ratings, géneros y tendencias temporales de películas.
-
-## 🧰 Tecnologías
+## Tech
 
 - Python, Jupyter, pandas, NumPy
 - scikit-learn, TensorFlow, PyTorch
 - SQL, MongoDB
-- Git, GitHub
-- Visualización: seaborn, matplotlib, Plotly, Dash
+- Visualization: seaborn, matplotlib
 
-## 📫 Contacto
+## Contact
 
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
-- [Correo](mailto:tu@email.com)
+- [LinkedIn](https://www.linkedin.com/in/sergi-almendros-montoya-779645359/)
+- [Correo](sergialmontoya@gmail.com)
