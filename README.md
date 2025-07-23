@@ -1,5 +1,7 @@
 # Sergi Almendros Montoya
 
+# Machine Learning | Data Science 
+
 Estudiante de Matemática Computacional y Analítica de Datos en la UAB. Apasionado por el análisis de datos, machine learning y la ingeniería de datos. En este espacio comparto mis proyectos personales y académicos.
 
 ## 🚀 Proyectos destacados
