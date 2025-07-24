@@ -23,7 +23,7 @@ A deep learning project focused on converting Catalan audio to text using neural
 ### 🔹 [Titanic Survival Prediction](https://github.com/ssaaaam/titanic)
 Solves the classic Titanic passenger classification problem using data preprocessing, feature engineering, and machine learning models.
 
-### 🔹 [Data Sciense Salary Prediction](https://github.com/ssaaaam/datascience_salaries)
+### 🔹 [Data Science Salary Prediction](https://github.com/ssaaaam/datascience_salaries)
 Predict the salary of a data analyst using Machine Learning techniques.
 
 ---
